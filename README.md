@@ -20,4 +20,4 @@ python main.py
 Also check out acknowledgments.txt for credits
 
 # Note:
-While running the Desktop app you need to press enter once you've entered the number.
+While running the Desktop app you need to press enter once you've entered a number in the text box.
