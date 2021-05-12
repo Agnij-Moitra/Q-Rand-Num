@@ -3,7 +3,7 @@
 Hello World!
 This is a Quantum Bitstring Generator
 
-To get started make sure you have python and pip, and that you are in the correct directorty run the following in your terminal if you are on MacOS or any Linux Based OS:
+To get started make sure you have python 3.6 or later and pip installed, and that you are in the correct directorty run the following in your terminal if you are on MacOS or any Linux Based OS:
 ```
 ./requierments.sh
 ```
