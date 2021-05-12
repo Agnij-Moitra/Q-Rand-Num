@@ -10,7 +10,7 @@ To get started make sure you have python and pip, and that you are in the correc
 
 If you are on Windows run the following in your Command Prompt:
 ```
-requierments.bat
+.\requierments.bat
 ```
 
 Now to run the app run:
