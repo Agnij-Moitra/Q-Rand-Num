@@ -18,3 +18,5 @@ Now to run the app run:
 python main.py
 ```
 Also check out acknowledgments.txt for credits
+
+# Note: While running the Desktop app you need to press enter once you've entered the number.
