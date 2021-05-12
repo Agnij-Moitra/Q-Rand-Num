@@ -133,16 +133,16 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate(
             "MainWindow", "Quantum Random Bit String Generator"))
         self.label_3.setText(_translate("MainWindow", "This will use a Quantum Computer\n"
-                                        "to generate True random bit string (bit strings).\n"
+                                        "to generate True random bit strings.\n"
                                         "Unlike Classical Computer which generates\n"
                                         "pseudo bit string. It has a good\n"
                                         "amount applications in crytography and even\n"
-                                        "Tech Giant like Samsung are using it."))
+                                        "Tech Giants like Samsung are using it."))
         self.label_4.setText(_translate("MainWindow", "Enter Length of digits you want:\n"
                                         "Note: Due to the current hardware\n"
                                         "limitation you can enter 32 at max.\n"
                                         "When you're done press enter and\n"
-                                        "please be patient (1 - 2 min)"))
+                                        "please wait for 1 - 2 min"))
         self.pushButton.setText(_translate("MainWindow", "Generate 😀!"))
         self.pushButton.clicked.connect(self.pushButton_handler)
 
