@@ -17,3 +17,4 @@ Now to run the app run:
 ```
 python main.py
 ```
+Also check out acknowledgments.txt for credits
