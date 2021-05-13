@@ -1,3 +1,0 @@
-1) Image by Fractal Hassan on https://unsplash.com/photos/XoNj0ulsn1Y
-2) Inspired from https://thenextweb.com/news/samsungs-new-phone-has-a-2-5-mm-quantum-random-number-generator-for-improved-security
-3) https://stackoverflow.com/questions/2349991/how-to-import-other-python-files
