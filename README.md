@@ -25,4 +25,4 @@ python main.py
 ## Acknowledgments
 - This project is inspired from [Samsung’s new phone has a 2.5 mm quantum random number generator for improved security](https://thenextweb.com/news/samsungs-new-phone-has-a-2-5-mm-quantum-random-number-generator-for-improved-security)
 - Photo by [Fractal Hassan](https://unsplash.com/photos/XoNj0ulsn1Y) on [Unsplash](https://unsplash.com/photos/XoNj0ulsn1Y)
-- I used some code from [StackOverflow](https://stackoverflow.com/questions/2349991/how-to-import-other-python-files)
+- I used some code for importing a python script from [StackOverflow](https://stackoverflow.com/questions/2349991/how-to-import-other-python-files)
