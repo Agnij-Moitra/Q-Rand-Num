@@ -24,3 +24,6 @@ Also check out acknowledgments.txt for credits
 - As this is using Qiskit and IBM Quantum, the actual quantum computer as of now will be noisy and there could be a long queue on public devices. So it is using QASM Simulator as of now.
 
 ## Acknowledgments
+> This project is inspired from https://thenextweb.com/news/samsungs-new-phone-has-a-2-5-mm-quantum-random-number-generator-for-improved-security
+> Image by (Fractal Hassan)[https://unsplash.com/photos/XoNj0ulsn1Y] on (Unsplash)[ttps://unsplash.com/photos/XoNj0ulsn1Y]
+> I used some code from (StackOverflow)[https://stackoverflow.com/questions/2349991/how-to-import-other-python-files]
