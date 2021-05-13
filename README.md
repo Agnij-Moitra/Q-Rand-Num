@@ -22,3 +22,5 @@ Also check out acknowledgments.txt for credits
 # Note:
 - While running the Desktop app you need to press enter once you've entered a number in the text box.
 - As this is using Qiskit and IBM Quantum, the actual quantum computer as of now will be noisy and there could be a long queue on public devices. So it is using QASM Simulator as of now.
+
+## Acknowledgments
