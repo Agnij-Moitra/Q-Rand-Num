@@ -25,5 +25,5 @@ Also check out acknowledgments.txt for credits
 
 ## Acknowledgments
 > This project is inspired from https://thenextweb.com/news/samsungs-new-phone-has-a-2-5-mm-quantum-random-number-generator-for-improved-security
-> Image by (Fractal Hassan)[https://unsplash.com/photos/XoNj0ulsn1Y] on (Unsplash)[ttps://unsplash.com/photos/XoNj0ulsn1Y]
-> I used some code from (StackOverflow)[https://stackoverflow.com/questions/2349991/how-to-import-other-python-files]
+> Image by [Fractal Hassan](https://unsplash.com/photos/XoNj0ulsn1Y) on [Unsplash](ttps://unsplash.com/photos/XoNj0ulsn1Y)
+> I used some code from [StackOverflow](https://stackoverflow.com/questions/2349991/how-to-import-other-python-files)
