@@ -3,17 +3,18 @@
 Hello World!
 This is a Quantum Bitstring Generator
 
-To get started make sure you have python 3.6 or later and pip installed, and that you are in the correct directorty run the following in your terminal if you are on MacOS or any Linux Based OS:
+# Getting Started
+1) To get started make sure you have python 3.6 or later and pip installed, and that you are in the correct directorty run the following in your terminal if you are on MacOS or any Linux Based OS:
 ```
 ./requierments.sh
 ```
 
-If you are on Windows run the following in your Command Prompt:
+2) If you are on Windows run the following in your Command Prompt:
 ```
 .\requierments.bat
 ```
 
-Now to run the app run:
+3) Now to run the app run:
 ```
 python main.py
 ```
