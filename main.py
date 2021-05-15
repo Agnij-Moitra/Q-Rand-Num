@@ -56,7 +56,6 @@ class Ui_MainWindow(object):
         if buffer < 33 and buffer > 1:
             buffer -= 1
             self.num = buffer
-            print("1", self.num)
             return
 
         else:
