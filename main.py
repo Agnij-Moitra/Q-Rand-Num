@@ -32,7 +32,6 @@ class Ui_MainWindow(object):
         exit_show_popup = msg.exec_()
 
     def main(self):
-        print(self.num)
         if self.num == 0:
             self.show_popup(
                 "Error", f"Please Enter An Integer First", "warning")
