@@ -9,9 +9,6 @@ def main(bitstring):
     bitsring is the number of digits that'll be generated
     """
 
-    if int(bitstring) > 32:
-        return "x > 32"
-
     # initializing qubits
     qc = q.QuantumCircuit(bitstring + 1, bitstring + 1)
 
