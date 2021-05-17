@@ -22,13 +22,6 @@ def main(bitstring):
 
     # the bitstring
     counts = result.get_counts(qc)
-    ans = int(list(counts)[0])
-
-    if len(str(ans)) < bitstring - 1:
-        buffer = ""
-        for i in range(bitstring):
-            buffer += "0"
-        ans = buffer + str(ans)
-        ans = int(ans)
+    ans = str(list(counts)[0])
 
     return ans
