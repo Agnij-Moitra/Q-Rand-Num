@@ -152,4 +152,5 @@ if __name__ == "__main__":
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
     MainWindow.show()
+    print("Ignore the things that will be printed in the console.")
     sys.exit(app.exec_())
