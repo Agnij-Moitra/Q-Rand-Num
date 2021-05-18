@@ -10,7 +10,7 @@ This is a Quantum Bitstring Generator
 ```
 ./requierments.sh
 ```
-2) Run this only if you get any errors in `1.`:
+2) Run this only if you get any errors in `1.` :
 ```
 ./fixed.sh
 ```
@@ -21,10 +21,15 @@ This is a Quantum Bitstring Generator
 ```
 
 4) Now to run the app run the following on MacOS or Linux:
+**If you get any erros run `5.`**
 ```
 ./runner.sh
 ```
-5) If you are on Windows run:
+5) Run this only if you get any errors in `4.` :
+```
+./fixed2.sh
+```
+6) If you are on Windows run:
 ```
 .\runner.bat
 ```
