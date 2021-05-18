@@ -4,7 +4,9 @@ Hello World!
 This is a Quantum Bitstring Generator
 
 # Getting Started
-1) To get started make sure you have python 3.6 or later and pip installed, and that you are in the correct directorty run the following in your terminal if you are on MacOS or any Linux Based OS:
+### Befire running the below always ensure your in the correct directory.
+
+1) To get started make sure you have python 3.6 or later and pip installed, run the following in your terminal if you are on MacOS or any Linux Based OS:
 ```
 ./requierments.sh
 ```
