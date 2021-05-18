@@ -1,2 +1,2 @@
-source bitstring/bin/actvate
-python3 main.py
+source ../bitstring/bin/actvate
+python3 ../main.py
