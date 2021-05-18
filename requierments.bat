@@ -1,2 +1,1 @@
-pip install qiskit
-pip install PyQt5
+pip install qiskit; pip install PyQt5
