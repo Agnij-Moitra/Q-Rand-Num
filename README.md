@@ -6,6 +6,7 @@ This is a Quantum Bitstring Generator
 # Getting Started
 - **Before running the below always ensure your in the correct directory.**
 1) To get started make sure you have python 3.6 or later and pip installed, run the following in your terminal if you are on MacOS or any Linux Based OS:
+**If you have get any errors in running this then run 2**
 ```
 ./requierments.sh
 ```
