@@ -14,9 +14,13 @@ This is a Quantum Bitstring Generator
 .\requierments.bat
 ```
 
-3) Now to run the app run:
+3) Now to run the app run the following on MacOS or Linux:
 ```
-python main.py
+./runner.sh
+```
+4) If you are on Windows run:
+```
+.\runner.bat
 ```
 
 # Note:
