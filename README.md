@@ -6,21 +6,25 @@ This is a Quantum Bitstring Generator
 # Getting Started
 - **Before running the below always ensure your in the correct directory.**
 1) To get started make sure you have python 3.6 or later and pip installed, run the following in your terminal if you are on MacOS or any Linux Based OS:
-**If you have get any errors in running this then run 2**
+**If you have get any errors in running this then run `2.`**
 ```
 ./requierments.sh
 ```
+2) Run this only if you get any errors in `1.`:
+```
+./fixed.sh
+```
 
-2) If you are on Windows run the following in your Command Prompt:
+3) If you are on Windows run the following in your Command Prompt:
 ```
 .\requierments.bat
 ```
 
-3) Now to run the app run the following on MacOS or Linux:
+4) Now to run the app run the following on MacOS or Linux:
 ```
 ./runner.sh
 ```
-4) If you are on Windows run:
+5) If you are on Windows run:
 ```
 .\runner.bat
 ```
