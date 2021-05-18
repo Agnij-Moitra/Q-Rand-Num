@@ -20,7 +20,7 @@ This is a Quantum Bitstring Generator
 .\requierments.bat
 ```
 
-4) Now to run the app run the following on MacOS or Linux:
+4) Now to run the app run the following on MacOS or Linux:\
 **If you get any erros run `5.`**
 ```
 ./runner.sh
