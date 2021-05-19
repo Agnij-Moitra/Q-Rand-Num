@@ -5,8 +5,10 @@ This is a Quantum Bitstring Generator
 
 # Getting Started
 - **Before running the below always ensure your in the correct directory.**
+- To get tarted make sure you have python 3.6 or later and pip installed
+- Run the command on bash (preferably) on Mac or Linux and on Command Prompt(preferably) on Windows
 ## For MacOS and Linux:
-1) To get tarted make sure you have python 3.6 or later and pip installed, run the following in your terminal if you are on MacOS or any Linux Based OS:
+1) Run:
 **If you have get any errors in running this then run `2.`**
 ```
 ./setup.sh
@@ -26,6 +28,19 @@ python main.py
 **If this doesn't work then run**:
 ```
 python3 main.py
+```
+## For Windows:
+1) Run:
+```
+.\setup.bat
+```
+2)
+```
+.\requirements.bat
+```
+3) Now finally to run the app:
+```
+python main.py
 ```
 # Note:
 - While running the Desktop app you need to press enter once you've entered a number in the text box.
