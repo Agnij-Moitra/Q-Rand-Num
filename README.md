@@ -20,7 +20,7 @@ This is a Quantum Bitstring Generator
 ```
 ./requirements.sh
 ```
-4) On finally to run the app:
+4) Now finally to run the app:
 ```
 python main.py
 ```
@@ -29,7 +29,7 @@ python main.py
 python3 main.py
 ```
 ## For Windows:
-1) Run:
+1) In your Command Prompt:
 ```
 .\setup.bat
 ```
