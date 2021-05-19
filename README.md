@@ -17,6 +17,10 @@ This is a Quantum Bitstring Generator
 
 3) If you are on Windows run the following in your Command Prompt:
 ```
+.\setup.bat
+```
+4) Then on Windows run:
+```
 .\requierments.bat
 ```
 
