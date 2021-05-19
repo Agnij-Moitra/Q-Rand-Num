@@ -141,7 +141,7 @@ class Ui_MainWindow(object):
                                         "limitation you can enter 32 at max.\n"
                                         "When you're done press enter and\n"
                                         "please wait for 1 - 2 min"))
-        self.pushButton.setText(_translate("MainWindow", "Generate 😀!"))
+        self.pushButton.setText(_translate("MainWindow", "Generate !"))
         self.pushButton.clicked.connect(self.pushButton_handler)
 
 
