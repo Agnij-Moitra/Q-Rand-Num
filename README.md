@@ -1,10 +1,9 @@
 # Q-Rand-Num
-
-Hello World!
 This is a Quantum Bitstring Generator
 
 # Getting Started
 - **Before running the below always ensure your in the correct directory.**
+- **While running the Desktop app you please press enter once you've entered a number in the text box.**
 - To get tarted make sure you have python 3.6 or later and pip installed
 - Run the command on bash (preferably) on Mac or Linux and on Command Prompt(preferably) on Windows
 ## For MacOS and Linux:
@@ -43,8 +42,8 @@ python3 main.py
 python main.py
 ```
 # Note:
-- While running the Desktop app you need to press enter once you've entered a number in the text box.
 - As this is using Qiskit and IBM Quantum, the actual quantum computer as of now will be noisy and there could be a long queue on public devices. So it is using QASM Simulator as of now.
+- For some reason if you are on windows the text in the edges won't appear. 
 
 ## Acknowledgments
 - This project is inspired from [Samsung’s new phone has a 2.5 mm quantum random number generator for improved security](https://thenextweb.com/news/samsungs-new-phone-has-a-2-5-mm-quantum-random-number-generator-for-improved-security)
