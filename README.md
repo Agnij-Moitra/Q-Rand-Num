@@ -5,39 +5,28 @@ This is a Quantum Bitstring Generator
 
 # Getting Started
 - **Before running the below always ensure your in the correct directory.**
-1) To get started make sure you have python 3.6 or later and pip installed, run the following in your terminal if you are on MacOS or any Linux Based OS:
+## For MacOS and Linux:
+1) To get tarted make sure you have python 3.6 or later and pip installed, run the following in your terminal if you are on MacOS or any Linux Based OS:
 **If you have get any errors in running this then run `2.`**
 ```
 ./setup.sh
 ```
-2) Run this only if you get any errors in `1.` :
+2) Run:
 ```
 ./fixed.sh
 ```
-
-3) If you are on Windows run the following in your Command Prompt:
+3) Run:
 ```
-.\setup.bat
+./requirements.sh
 ```
-4) Then on Windows run:
+4) On finally to run the app:
 ```
-.\requierments.bat
+python main.py
 ```
-
-4) Now to run the app run the following on MacOS or Linux:\
-**If you get any erros run `5.`**
+**If this doesn't work then run**:
 ```
-./runner.sh
+python3 main.py
 ```
-5) Run this only if you get any errors in `4.` :
-```
-./fixed2.sh
-```
-6) If you are on Windows run:
-```
-.\runner.bat
-```
-
 # Note:
 - While running the Desktop app you need to press enter once you've entered a number in the text box.
 - As this is using Qiskit and IBM Quantum, the actual quantum computer as of now will be noisy and there could be a long queue on public devices. So it is using QASM Simulator as of now.
