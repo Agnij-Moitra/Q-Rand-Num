@@ -1,4 +1,5 @@
 import qiskit as q
+from numpy import pi
 from qiskit import *
 
 bk = q.Aer.get_backend("qasm_simulator")
@@ -14,7 +15,9 @@ def main(bitstring):
 
     # applying h gate and measuring
     for i in range(bitstring):
-        qc.h(i)
+        qc.rz(pi / 2, i)
+        qc.sxdg(i)
+        qc.rz(pi / 2, i)
         qc.measure(i, i)
 
     # executing circuit
