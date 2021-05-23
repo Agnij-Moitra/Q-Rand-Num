@@ -46,6 +46,7 @@ python main.py
 ```
 # Note:
 - As this is using Qiskit and IBM Quantum, the actual quantum computer as of now will be noisy and there could be a long queue on public devices. So it is using QASM Simulator as of now.
+- `__pycache__` contains cython files to improve performance.
 
 ## Acknowledgments
 - This project is inspired from [Samsung’s new phone has a 2.5 mm quantum random number generator for improved security](https://thenextweb.com/news/samsungs-new-phone-has-a-2-5-mm-quantum-random-number-generator-for-improved-security)
