@@ -7,7 +7,7 @@ This is a Quantum Bitstring Generator
 - To get started make sure you have python 3.6 or later and pip installed
 - Run the command on bash (preferably) on Mac or Linux and on Command Prompt(preferably) on Windows
 ## On Windows:
-- **For some reason the text in the edges won't appear. And for a moment the Main Window might show Not Responding but then it should be fine in a while**
+- For some reason the text in the edges **won't appear**. And for a moment the Main Window might show **`(Not Responding)`** but then it should be fine in a while
 
 ## For MacOS and Linux:
 1) Run:
