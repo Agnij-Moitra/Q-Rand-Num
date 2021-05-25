@@ -4,7 +4,7 @@ This is a Quantum Bitstring Generator
 # Note:
 - As this is using Qiskit and IBM Quantum, the actual quantum computer as of now will be noisy a.k.a error prone and there could be a long queue on public devices. So it is using QASM Simulator as of now.
 - ## On Windows:
--- For some reason the text in the edges **won't appear**. And for a moment the Main Window might show **`(Not Responding)`** but then it should be fine in a while
+  - For some reason the text in the edges **won't appear**. And for a moment the Main Window might show **`(Not Responding)`** but then it should be fine in a while
 
 # Getting Started
 - **Before running the below always ensure your in the correct directory.**
