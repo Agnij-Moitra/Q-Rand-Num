@@ -17,6 +17,7 @@ def main(bitstring):
     # get the bitstring
     result = q.execute(qc, bk, shots = 1).result()
     # the bitstring
+    
     counts = result.get_counts(qc)
     return int(list(counts)[0])
 #%%
