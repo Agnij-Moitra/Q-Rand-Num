@@ -19,5 +19,5 @@ def main(bitstring):
     # the bitstring
     
     counts = result.get_counts(qc)
-    return int(list(counts)[0])
+    return str(list(counts)[0])
 #%%
